@@ -1,38 +1,53 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Latina Dev
 
-## Getting Started
+Latina Dev is an open-source directory of Latina software engineers at the student, IC, and leadership levels. Our goal is to increase visibility and access to valuable opportunities.
 
-First, run the development server:
+This project is currently in the ideation stage and we are currently looking for others interested in developing this with us! 🎉
+
+If you have feedback or are interested in contributing, feel free to create a new discussion thread or join us on Discord.
+
+💬 [Create a new discussion](https://github.com/orgs/Latina-Dev/discussions)
+
+🛠️ [View the existing project board](https://github.com/orgs/Latina-Dev/projects/1)
+
+[![Discord Latina Dev Community](https://dcbadge.vercel.app/api/server/xzHDhxsQAQ)](https://discord.gg/xzHDhxsQAQ)
+
+[![Vercel](/public/img/logos/vercel.svg "Vercel")](https://vercel.com?utm_source=latina-dev&utm_campaign=oss)
+
+## Contributing
+
+### Getting Started
+
+If this is your very first time contributing, install the dependencies:
+
+```bash
+npm i
+```
+
+Afterward, run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+### Open a Pull Request
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+> To get started...
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+- 🍴 Fork this repo [here](https://github.com/Latina-Dev/latina-dev#fork-destination-box)
+- 🔨 Hack away
+- 👥 Add yourself as a contributor under credits
+- 🔧 Make a pull request [here](https://github.com/Latina-Dev/latina-dev/compare)
+- 🎉 Get your pull request approved - success!
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Or just [create an issue](https://github.com/Latina-Dev/latina-dev/issues) - any little bit of help counts! 😊
 
-## Learn More
+### Maintainers
 
-To learn more about Next.js, take a look at the following resources:
+- [Frances Coronel](https://github.com/FrancesCoronel)
+- [Gabriella Corales](https://github.com/EllaCodes4)
+- [Fernanda Pérez Gutiérrez](https://github.com/fernperezg97)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### Credits 
